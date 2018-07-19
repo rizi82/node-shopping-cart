@@ -1,1 +1,1 @@
-# node-shopping-cart
+Build a Shopping Cart with NodeJS/ Express
